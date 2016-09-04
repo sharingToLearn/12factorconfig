@@ -1,5 +1,8 @@
 email-service:
     dev:
+        server.port: 9001
         from.email: shahbaz.khan1003@gmail.com
     prod:
+        server.port: ${SERVER_PORT}
         from.email: ${FROM_EMAIL}
+        
