@@ -1,3 +1,5 @@
+server.port: 9001
+
 email-service:
     dev:
         server.port: 9001
