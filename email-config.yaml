@@ -1,4 +1,5 @@
 server.port: 9001
+server.contextPath=/email-service
 
 email-service:
     dev:
