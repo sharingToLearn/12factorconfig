@@ -1,5 +1,5 @@
 email-service:
     dev:
-        from.email: ${FROM_EMAIL}
+        from.email:shahbaz.khan1003@gmail.com
     prod:
-        from.email: ${FROM_EMAIL}
+        from.email: shahbaz.k@cloudsea.com
