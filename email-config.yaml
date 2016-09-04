@@ -3,7 +3,7 @@ server.port: 9001
 email-service:
     dev:
         server.port: 9001
-        from.email: shahbaz.khan10032323@gmail.com
+        from.email: kabir.khan10032323@gmail.com
     prod:
         server.port: ${SERVER_PORT}
         from.email: ${FROM_EMAIL}
