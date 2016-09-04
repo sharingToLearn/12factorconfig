@@ -2,4 +2,4 @@ email-service:
     dev:
         from.email: shahbaz.khan1003@gmail.com
     prod:
-        from.email: shahbaz.k@cloudsea.com
+        from.email: ${FROM_EMAIL}
