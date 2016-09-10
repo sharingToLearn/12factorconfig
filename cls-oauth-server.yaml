@@ -1,2 +1,4 @@
 server.port: 9092
 server.contextPath: /oauth
+security.user.name:basic
+security.user.password:basic
