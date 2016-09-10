@@ -1,4 +1,3 @@
 server.port: 9092
 server.contextPath: /oauth
-security.user.name: basic
-security.user.password: basic
+security.oauth2.resource.userInfoUri: http://localhost:9092/oauth/user
